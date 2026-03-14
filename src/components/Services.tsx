@@ -10,7 +10,7 @@ export default function Services() {
       title: t('services.s1.title'),
       description: t('services.s1.desc'),
       icon: <Home className="h-8 w-8 text-blue-600" />,
-      image: 'https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?q=80&w=800&auto=format&fit=crop',
+      image: 'https://images.squarespace-cdn.com/content/v1/56fec9d340261d80fee6251d/1631032163451-7OP87J40F0PSIRSRULC3/Interior+paint+Arlington%2C+Virginia+%28VA%29+beautify+and+protect+your+home+with+high-quality+house+paint?format=2500w',
     },
     {
       title: t('services.s2.title'),
