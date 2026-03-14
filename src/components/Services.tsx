@@ -16,7 +16,7 @@ export default function Services() {
       title: t('services.s2.title'),
       description: t('services.s2.desc'),
       icon: <Paintbrush className="h-8 w-8 text-blue-600" />,
-      image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=800&auto=format&fit=crop',
+      image: 'https://robeystucco.com/wp-content/uploads/2016/11/stucco-house.png',
     },
     {
       title: t('services.s3.title'),
