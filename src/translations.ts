@@ -54,7 +54,7 @@ export const translations = {
 
     // Why Choose Us
     'why.badge': 'Why Choose Us',
-    'why.title': 'The Ale-Xis Difference',
+    'why.title': 'The Ale-Xis Painting Difference',
     'why.desc': 'We don\'t just paint walls; we build lasting relationships through trust, transparency, and superior results.',
     'why.f1.title': 'Unmatched Quality',
     'why.f1.desc': 'We never cut corners. From thorough prep work to the final coat, our attention to detail ensures a flawless, long-lasting finish.',
