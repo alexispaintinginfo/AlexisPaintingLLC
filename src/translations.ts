@@ -40,7 +40,7 @@ export const translations = {
     // About
     'about.badge': 'About Us',
     'about.title': 'Quality Craftsmanship, Exceptional Service',
-    'about.p1': 'Ale-Xis Painting has been proudly serving Tucson for nearly 25 years. We are a family owned business that takes pride in helping people make their visions a reality. Our focus is providing you top-tier painting services and helping get more value out of their home. Whether it is a bathroom renovation or a full home make over, give us a call so we can help make it happen.',
+    'about.p1': 'Ale-Xis Painting has been proudly serving Tucson for nearly 25 years. We are a family owned business that takes pride in helping people make their visions a reality. Our focus is providing you top-tier painting services and helping get more value out of their home. Whether it is a bathroom renovation or a full home makeover, give us a call so we can help make it happen.',
     'about.p2': 'Our team of skilled professionals treats every home and business as if it were our own. From the initial consultation to the final walkthrough, we ensure a seamless, stress-free experience.',
     'about.stat1': 'Years of Experience',
     'about.stat2': 'Trusted by hundreds',
